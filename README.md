@@ -6,7 +6,8 @@ En plein apprentissage de **Python**, j'ai pour projet de développer une applic
 ---
 
 ## Compétences principales
-- **Langages** : Python (Pandas, Numpy, Pygame, Folium), SQL, Bash
+- **Langages** : ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+ (Pandas, Numpy, Pygame, Folium), SQL, Bash
 - **IA & Data** : modèles open source, fine-tuning, apprentissage supervisé
 - **Cartographie** : OSMnx, GeoPandas, Folium, gestion de snapshots locaux
 - **Outils** : Git/GitHub, VS Code, Jupyter, Docker (bases)
