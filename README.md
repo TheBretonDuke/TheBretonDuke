@@ -1,4 +1,4 @@
-# こんにちは, je suis Simon (alias *TheBretonDuke*)
+# Bonjour,je suis Simon (alias *TheBretonDuke*)
 
 Étudiant en **Développement IA** à l’**ISEN Brest**, parcours Simplon.  
 De retour en Bretagne après 5 ans au Japon, je suis en reconversion professionnelle en développement **IA appliquée**.  
@@ -6,7 +6,7 @@ En plein apprentissage de **Python**, j'ai pour projet de développer une applic
 
 ---
 
-## 🔧 Compétences principales
+## Compétences principales
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
@@ -24,17 +24,17 @@ En plein apprentissage de **Python**, j'ai pour projet de développer une applic
 
 ---
 
-## 🌍 Langues
+## Langues
 
-![Japonais](https://img.shields.io/badge/🌸-Japonais-red?style=plastic)
 ![Anglais](https://img.shields.io/badge/🇬🇧-Anglais-blue?style=plastic)
+![Japonais](https://img.shields.io/badge/🌸-Japonais-red?style=plastic)
 
 ---
 
-## 📌 Projets phares
-- 🗺️ **Carto Brest** : application locale de génération cartographique à partir de snapshots OSM (Python + Folium + SQLite).  
-- ⚔️ **Clickdom** : jeu de stratégie en grille développé en Python/Pygame, avec IA basique et prototype multijoueur.  
-- 📖 **RPG Bretagne médiévale** : projet narratif procédural en Python (IA + génération procédurale).  
+## Projets phares
+- **Carto Brest** : application locale de génération cartographique à partir de snapshots OSM (Python + Folium + SQLite).  
+- **Clickdom** : jeu de stratégie en grille développé en Python/Pygame, avec IA basique et prototype multijoueur.  
+- **RPG Bretagne médiévale** : projet narratif procédural en Python (IA + génération procédurale).  
 
 ---
 
