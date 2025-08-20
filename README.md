@@ -1,4 +1,4 @@
-# Bonjour,je suis Simon (alias *TheBretonDuke*)
+# Bonjour, je suis Simon (alias *TheBretonDuke*)
 
 Étudiant en **Développement IA** à l’**ISEN Brest**, parcours Simplon.  
 De retour en Bretagne après 5 ans au Japon, je suis en reconversion professionnelle en développement **IA appliquée**.  
