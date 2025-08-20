@@ -11,7 +11,7 @@ En plein apprentissage de **Python**, j'ai pour projet de développer une applic
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-3766AB?style=plastic&logo=python&logoColor=white)
 ![Folium](https://img.shields.io/badge/Folium-77B829?style=plastic&logo=leaflet&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-grey?style=plastic)
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white)
